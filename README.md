@@ -1,3 +1,5 @@
+**⚠️ This repository is deprecated and no longer maintained.**
+
 # gluster-kubernetes
 
 ## GlusterFS Native Storage Service for Kubernetes
